@@ -1,0 +1,140 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    
+}
+.header-link{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2e2f42;
+}
+.header-link:hover{
+    color: #404bbf;
+}
+.header-link:focus {
+    color: #404bbf;
+}
+.header-adress{
+    font-style: normal;
+}
+.header-adress-link{
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.header-adress-link:hover{
+color: #404bbf;
+}
+.header-adress-link:focus{
+color: #404bbf;
+}
+.logo{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+}
+.studio{
+    color: #2e2f42;
+}
+.section-one{
+    background-color: #2e2f42
+}
+.sone-title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button{
+    background-color: #4D5AE5;
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #404BBF;
+}
+.button:focus{
+    background-color: #404BBF;
+}
+
+.stwo-small-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.stwo-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-three{
+    background-color: #f4f4fd;
+}
+.sthree-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sthree-list{
+    background-color: #FFFFFF;
+}
+.sthree-small-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+.sthree-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.sfour-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sfour-list{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sfour-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.footer{
+    background-color: #2e2f42;
+}
+.footerstudio{
+    color: #F4F4FD;
+}
+.f-paragraf{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}

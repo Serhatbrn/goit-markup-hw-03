@@ -5,11 +5,28 @@ body{
     background-color: #FFFFFF;
     
 }
-header {
+.header {
     border-bottom: 1px solid #e7e9fc
 }
 .container{
     display: flex
+    width: 1158px
+    padding: 0 15px
+}
+.header-nav{
+    display: flex
+    align-items: center
+}
+.header-list{
+    display: flex
+    gap: 40px
+}
+.header-adress-list{
+    display: flex
+    gap: 40px
+}
+.header item{
+    padding: 24px 0
 }
 .header-link{
     line-height: 1.5;
@@ -17,6 +34,7 @@ header {
     font-weight: 500;
     font-size: 16px;
     color: #2e2f42;
+    margin-right: 76px
 }
 .header-link:hover{
     color: #404bbf;

@@ -181,6 +181,9 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
 }
+.section-four{
+    padding: 120px 0;
+}
 .sfour-title{
     font-size: 36px;
     line-height: 1.11;
@@ -188,8 +191,18 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 .sfour-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+.sfour-item{
+    flex-basis: calc((100% - 72px) / 4);
+}
+.sfour-small-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
